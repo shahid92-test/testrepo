@@ -6,3 +6,581 @@ gasdsad@gasd.com
 sadsad@hasd.com
 333-33-3333
 mango
+Table of Contents
+
+AWS Amazon Web Services credentials
+IBAN_CODE
+Canada HIN Number
+Canada OHIP
+Canada Social Insurance Number
+CCN - CMS Certificate Number
+Credit Card Number
+Credit Card Track Number
+Date
+Date of Birth
+Email Address
+FDA Code
+ICD-10
+ICD-9
+IP Address
+US Phone Number
+USA Adoption TIN Number
+USA Bank Routing Number
+Fake (Invalid) routing numbers
+USA DEA Number
+USA EIN Number
+USA Individual TIN Number
+USA Preparer TIN Number
+USA Social Security Number
+USA State
+DOMAIN_NAME
+IMSI_ID
+SWIFT_CODE
+URL
+ 
+
+AWS Amazon Web Services credentials
+
+AWS_ACCESS_KEY_ID=AKIAGLBA7A6CB6J7CPN3
+AWS_SECRET_ACCESS_KEY=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
+IBAN_CODE
+
+Albania No  28  AL47212110090000000235698741
+Andorra No  24  AD1200012030200359100100
+Austria Yes 20  AT611904300234573201
+Azerbaijan No  28  AZ21NABZ00000000137010001944
+Bahrain No  22  BH67BMAG00001299123456
+Belgium Yes 16  BE68539007547034
+Bosnia and Herzegovina No  20  BA391290079401028494
+Brazil No  29  BR1800360305000010009795493C1
+Bulgaria Yes 22  BG80BNBG96611020345678
+Costa Rica No  22  CR05015202001026284066
+Croatia Yes 21  HR1210010051863000160
+Cyprus Yes 28  CY17002001280000001200527600
+Czech Republic Yes 24  CZ6508000000192000145399
+Denmark Yes 18  DK5000400440116243
+The Dominican Republic No  28  DO28BAGR00000001212453611324
+Egypt No  29  EG380019000500000000263180002
+El Salvador No  28  SV62CENR00000000000000700025
+Estonia Yes 20  EE382200221020145685
+The Faroe Islands No  18  FO6264600001631634
+Finland Yes 18  FI2112345600000785
+France Yes 27  FR1420041010050500013M02606
+Georgia No  22  GE29NB0000000101904917
+Germany Yes 22  DE89370400440532013000
+Gibraltar Yes 23  GI75NWBK000000007099453
+Greece Yes 27  GR1601101250000000012300695
+Greenland No  18  GL8964710001000206
+Guatemala No  28  GT82TRAJ01020000001210029690
+Hungary Yes 28  HU42117730161111101800000000
+Iceland No  26  IS140159260076545510730339
+Ireland Yes 22  IE29AIBK93115212345678
+Israel No  23  IL620108000000099999999
+Italy Yes 27  IT60X0542811101000000123456
+Jordan No  30  JO94CBJO0010000000000131000302
+Kazakhstan No  20  KZ86125KZT5004100100
+Kosovo No  20  XK051212012345678906
+Kuwait No  30  KW81CBKU0000000000001234560101
+Latvia Yes 21  LV80BANK0000435195001
+Lebanon No  28  LB62099900000001001901229114
+Liechtenstein Yes 21  LI21088100002324013AA
+Lithuania Yes 20  LT121000011101001000
+Luxembourg Yes 20  LU280019400644750000
+Macedonia No  19  MK07250120000058984
+Malta Yes 31  MT84MALT011000012345MTLCAST001S
+Mauritania No  27  MR1300020001010000123456753
+Monaco Yes 27  MC5811222000010123456789030
+Montenegro No  22  ME25505000012345678951
+The Netherlands Yes 18  NL91ABNA0417164300
+Norway Yes 15  NO9386011117947
+Pakistan No  24  PK36SCBL0000001123456702
+Palestine, State of No  29  PS92PALS000000000400123456702
+Poland Yes 28  PL61109010140000071219812874
+Portugal Yes 25  PT50000201231234567890154
+Qatar No  29  QA58DOHB00001234567890ABCDEFG
+The Republic of Moldova No  24  MD24AG000225100013104168
+Romania Yes 24  RO49AAAA1B31007593840000
+San Marino Yes 27  SM86U0322509800000000270100
+Saudi Arabia No  24  SA0380000000608010167519
+Serbia No  22  RS35260005601001611379
+Slovakia Yes 24  SK3112000000198742637541
+Slovenia Yes 19  SI56263300012039086
+Spain Yes 24  ES9121000418450200051332
+Sweden Yes 24  SE4550000000058398257466
+Switzerland Yes 21  CH9300762011623852957
+Timor-Leste No  23  TL380080012345678910157
+Turkey No  26  TR330006100519786457841326
+Ukraine No  29  UA213223130000026007233566001
+The United Arab Emirates No  23  AE070331234567890123456
+The United Kingdom Yes 22  GB29NWBK60161331926819
+Vatican City State Yes 22  VA59001123000012345678
+Virgin Islands (British) No  24  VG96VPVG0000012345678901
+
+Algeria DZ  No  26  DZ580002100001113000000570
+Angola  AO  No  25  AO06004400006729503010102
+Benin   BJ  No  28  BJ66BJ0610100100144390000769
+Burkina Faso    BF  No  28  BF42BF0840101300463574000390
+Burundi BI  No  16  BI43201011067444
+Cameroon    CM  No  27  CM2110002000300277976315008
+Cape Verde  CV  No  25  CV64000500000020108215144
+Central African Republic    CF  No  27  CF4220001000010120069700160
+Chad    TD  No  27  TD8960002000010271091600153
+Comoros KM  No  27  KM4600005000010010904400137
+Congo   CG  No  27  CG3930011000101013451300019
+Djibouti    DJ  No  27  DJ2110002010010409943020008
+Equatorial Guinea   GQ  No  27  GQ7050002001003715228190196
+Gabon   GA  No  27  GA2140021010032001890020126
+Guinea-Bissau   GW  No  25  GW04GW1430010181800637601
+Honduras    HN  No  28  HN54PISA00000000000000123124
+Iran    IR  No  26  IR710570029971601460641001
+Ivory Coast CI  No  28  CI93CI0080111301134291200589
+Madagascar  MG  No  27  MG4600005030071289421016045
+Mali    ML  No  28  ML13ML0160120102600100668497
+Morocco MA  No  28  MA64011519000001205000534921
+Mozambique  MZ  No  25  MZ59000301080016367102371
+Nicaragua   NI  No  32  NI92BAMC000000000000000003123123
+Niger   NE  No  28  NE58NE0380100100130305000268
+Senegal SN  No  28  SN08SN0100152000048500003035
+Togo    TG  No  28  TG53TG0090604310346500400070
+Norway: NO 93 8601 1117947
+International Bank Account Number – IBAN (Spain) español ES12 1234 5678 1234 5679 1234  UK International Bank Account Number (IBAN) Bank Account: GB12 ABCD 1234 5678 9012 34
+Canada HIN Number
+
+ABC2AB41G203
+CA-ABC67689B606
+KAW98765b919
+BEX 12345 B6 07
+Canada OHIP
+
+5584-486-674
+1234567890
+3821.694.372
+Canada Social Insurance Number
+
+255-345-345
+945 234 567
+890785234
+123 908 789
+456 098 234
+234 786 678
+457908456
+354 896 345
+856.896.567
+564 905 345
+436-895-543
+CCN - CMS Certificate Number
+
+Facility CCN: 082583
+CMS certification number 054392
+here is your cms certificate number: 541565
+Credit Card Number
+
+american express visa 5455-7805-8606-2610 6011000990139424  4960999008288 ccn and propoxyphen hydrochlorid aspirin credit card
+Credit Card Number (Moderate)
+5205105105105109 ccn
+Credit Card Number (Lenient)
+All good here 5455-7805-8606-2610
+4566-6045-3818-1253
+Clark Kent 11/23/1988 dob ccn 4566604538181253
+amex 378282246310005
+and 3714-4963-5398-431 3787-3449-3671-000
+
+JCB 3530-1113-3330-0000
+JCB 3566002020360505
+
+Diners Club     30569309025904
+Diners Club     3852-0000-0232-37
+
+Card Number Card Type   Payment Status  Refund Status
+2222 4053 4324 8877 MasterCard  APPROVED    APPROVED
+2222 9909 0525 7051 MasterCard  APPROVED    APPROVED
+2223 0076 4872 6984 MasterCard  APPROVED    APPROVED
+2223 5771 2001 7656 MasterCard  APPROVED    APPROVED
+5105 1051 0510 5100 MasterCard  APPROVED    APPROVED
+5111 0100 3017 5156 MasterCard  APPROVED    APPROVED
+5185 5408 1000 0019 MasterCard  APPROVED    APPROVED
+5200 8282 8282 8210 MasterCard  APPROVED    APPROVED
+5204 2300 8000 0017 MasterCard  APPROVED    APPROVED
+5204 7400 0990 0014 MasterCard  APPROVED    APPROVED
+5420 9238 7872 4339 MasterCard  APPROVED    APPROVED
+5455 3307 6000 0018 MasterCard  APPROVED    APPROVED
+5506 9004 9000 0436 MasterCard  APPROVED    APPROVED
+5506 9004 9000 0444 MasterCard  APPROVED    APPROVED
+5506 9005 1000 0234 MasterCard  APPROVED    APPROVED
+5506 9208 0924 3667 MasterCard  APPROVED    APPROVED
+5506 9224 0063 4930 MasterCard  APPROVED    APPROVED
+5506 9274 2731 7625 MasterCard  APPROVED    APPROVED
+5553 0422 4198 4105 MasterCard  APPROVED    APPROVED
+5555 5537 5304 8194 MasterCard  APPROVED    APPROVED
+5555 5555 5555 4444 MasterCard  APPROVED    APPROVED
+4012 8888 8888 1881 Visa    APPROVED    APPROVED
+4111 1111 1111 1111 Visa    APPROVED    APPROVED
+6011 0009 9013 9424 Discover    APPROVED    APPROVED
+6011 1111 1111 1117 Discover    APPROVED    APPROVED
+3714 496353 98431   American Express    APPROVED    APPROVED
+3782 822463 10005   American Express    APPROVED    APPROVED
+3056 9309 0259 04   Diners  APPROVED    APPROVED
+3852 0000 0232 37   Diners  APPROVED    APPROVED
+3530 1113 3330 0000 JCB APPROVED    APPROVED
+3566 0020 2036 0505 JCB APPROVED    APPROVED
+Credit Card Track Number
+
+Track 1 data:
+hello %B41019905272191^LENIK/GRAYSON ^190920114401135774546844346000011? how are you doing today
+%B5168755544412233^PKMMV/UNEMBOXXXX       ^1807111100000000000000111000000?
+
+%B4000340000000501^Richard/Dam/Mr            ^25111110000123000? => Track 1
+
+Track 2 data:
+;5168755544412233=18071111000011100000?
+Track 2: ;4101990523272191=19092011440114600011?
+;4000340000000501=25111110000000001230?
+
+Track 1 + track 2
+%B5168755544412233^PKMMV/UNEMBOXXXX       ^1807111100000000000000111000000?;5168755544412233=18071111000011100000?
+Date
+
+05/08/1974
+28-01-1991
+15/8/2002
+18/05/2009
+12-4-2022
+Date of Birth
+
+11/24/1956 birthdate Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+06-22-1972 date of birth dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+12-18-1952 date-of-birth
+06-17-1958 dob Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+04-21-1967b'day
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 04/08/1978b-day
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti 03/04/1966bday dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 10-20-1985birthday Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+03/23/2013born dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti 01-29-1971d-o-b dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+04/15/1961d/o/b dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti 01/08/2009date_of_birth
+03-17-1952DateofB
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 06/24/1969dateofbirth
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti 01/11/2021DOB Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 08-11-1958DoB dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti b'day06/12/1975
+b-day08/06/1984 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+bday05-21-1968 dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+birthdate 08-17-2011 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+birthday03-15-1987
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti born05/16/2021
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor d-o-b12-20-2002
+d/o/b07/21/2001
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dob 10-05-1963 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor DOB08-04-1989
+DoB12/09/2017 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+date of birth 11-17-1985 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+date-of-birth 12/04/1995
+dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti date_of_birth04/12/1977 dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti
+dateofbirth09-21-1975
+DateofB04-08-1997
+Email Address
+
+Valid emails:
+abc-d@mail.com
+abc.def@mail.com
+abc@mail.com
+abc_def@mail.com
+abc.def@mail.cc
+abc.def@mail-archive.com
+abc.def@mail.org
+abc.def@mail.com
+abc#def@mail.com    
+
+Invalid emails:
+abc-@mail.com   
+abc..def@mail.com   
+.abc@mail.com   
+abc.def@mail.c
+abc.def@mail#archive.com    
+abc.def@mail    
+abc.def@mail..com   
+@domainsample.com
+johndoedomainsample.com
+john.doe@.net
+john.doe43@domainsample
+FDA Code
+
+Product: Canned Tomato Soup (Concentrated)
+Product Code: 38BEE27
+Product Code:16WEE14
+Product Name: CHOWDER/SOUP/STEW/BISQUE, MIXED FISHERY/SEAFOOD PRODUCTS, METAL, COMMERCIALLY STERILE
+Ibuprofen 62GBA41
+First Aid Kit including drugs 79L--RR
+
+Invalid code 01GBA41
+Invalid code 622BA41
+Invalid code 38BEE271
+ICD-10
+
+A00-B99  Certain infectious and parasitic diseases
+C00-D49  Neoplasms
+U00-U85  Codes for special purposes
+V00-Y99  External causes of morbidity
+Z00-Z99  Factors influencing health status and contact with health services
+F01-F09  Mental disorders due to known physiological conditions
+F10-F19  Mental and behavioral disorders due to psychoactive substance use
+F20-F29  Schizophrenia, schizotypal, delusional, and other non-mood psychotic disorders
+F10  Alcohol related disorders
+F11  Opioid related disorders
+ F12 Cannabis related disorders
+ F12.1 Cannabis abuse
+ F12.10 …… uncomplicated
+ F12.11 …… in remission
+ F12.12 Cannabis abuse with intoxication
+ F12.120 …… uncomplicated
+ F12.121 …… delirium
+ F12.122 …… with perceptual disturbance
+ F12.129 …… unspecified
+  A00.0 Cholera due to Vibrio cholerae 01, biovar cholerae
+ A00.1 Cholera due to Vibrio cholerae 01, biovar eltor
+ A00.9 Cholera, unspecified
+ICD-9
+
+001-139  Infectious And Parasitic Diseases
+140-239  Neoplasms
+240-279  Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders
+280-289  Diseases Of The Blood And Blood-Forming Organs
+390-392  Acute Rheumatic Fever
+393-398  Chronic Rheumatic Heart Disease
+401 Essential hypertension
+402 Hypertensive heart disease
+403 Hypertensive chronic kidney disease
+402.0 Malignant hypertensive heart disease
+402.00 Malignant hypertensive heart disease without heart failure convert 402.00 to ICD-10-CM
+402.01 Malignant hypertensive heart disease with heart failure convert 402.01 to ICD-10-CM
+IP Address
+
+IPv4 1: 127.0.0.1
+IPv4 2: 255.255.255.0
+IPv4 3: 172.17.0.125
+Not an IPv4 1: 172.256.0.125
+IPv6 1: 2002:db8::8a3f:362:7897
+IPv6 2: 2001:4860:4860:0000:0000:0000:0000:8888
+IPv6 3: 2405:4802:913a:d620:1475:5926:6c63:9fdd
+IPv6 4: 2345:0425:2CA1:0:0:0567:5673:23b5
+IPv6 5: 2345:0425:2CA1::0567:5673:23b5
+IPV6 6: 2345:0425:2CA1::0567:5673:23b5
+US Phone Number
+
++1-866-832-3090
+1-234-567-8901
+1 (234) 567-8901
+234-567-8901
+a phone number (234) 567-8901
+ (979) 482.4455
+(231) 745-3415
+7022 N Parson Ave
+Bitely, Michigan(MI), 49309
+USA Adoption TIN Number
+The ATIN format is in the same nine-digit format as a Social Security Number (SSN) or Individual Taxpayer Identification Number (ITIN). An ATIN begins with the number "9" , and the fourth and fifth digits are always "93" .
+
+9XX-93-XXXX
+
+
+Valid
+923-93-4356
+909-93-4642
+924 93 2434
+986 93 2345
+
+Invalid
+923-73-4356
+909-51-4642
+924562434
+778-62-8144
+909934642
+030 72 7381
+757-85-7495
+USA Bank Routing Number
+Check file:
+
+
+routing_number_pattern.txt
+16 May 2022, 08:14 PM
+Fake (Invalid) routing numbers
+
+A Fiction Bank 2 - 802222835 - hi there,    A Fiction Bank 8 - 795435472 - hi there
+A Fiction Bank 7 - 197928874 - hi there,    A Fiction Bank 9 - 935441665 - hi there
+A Fiction Bank 6 - 537493815 - hi there,    A Fiction Bank 6 - 313772378 - hi there
+A Fiction Bank 8 - 416566804 - hi there,    A Fiction Bank 9 - 697251719 - hi there
+A Fiction Bank 3 - 407294222 - hi there,    A Fiction Bank 6 - 703570830 - hi there
+A Fiction Bank 7 - 087376944 - hi there,    A Fiction Bank 7 - 196342709 - hi there
+A Fiction Bank 9 - 987441807 - hi there,    A Fiction Bank 3 - 164709060 - hi there
+A Fiction Bank 3 - 838479090 - hi there,    A Fiction Bank 7 - 025602747 - hi there
+A Fiction Bank 8 - 223870324 - hi there,    A Fiction Bank 8 - 682280025 - hi there
+A Fiction Bank 4 - 767347031 - hi there,    A Fiction Bank 9 - 764670679 - hi there
+A Fiction Bank 7 - 308299416 - hi there,    A Fiction Bank 9 - 853101567 - hi there
+A Fiction Bank 5 - 934158884 - hi there,    A Fiction Bank 4 - 786090116 - hi there
+A Fiction Bank 9 - 531474348 - hi there,    A Fiction Bank 4 - 932839671 - hi there
+A Fiction Bank 9 - 981481858 - hi there,    A Fiction Bank 2 - 800456872 - hi there
+A Fiction Bank 8 - 488661273 - hi there,    A Fiction Bank 9 - 732124547 - hi there
+A Fiction Bank 7 - 452239967 - hi there,    A Fiction Bank 2 - 733200046 - hi there
+A Fiction Bank 9 - 423230286 - hi there,    A Fiction Bank 6 - 337897984 - hi there
+A Fiction Bank 5 - 627968884 - hi there,    A Fiction Bank 6 - 691789725 - hi there
+A Fiction Bank 2 - 919908952 - hi there,    A Fiction Bank 6 - 215359246 - hi there
+A Fiction Bank 9 - 670076594 - hi there,    A Fiction Bank 3 - 824785206 - hi there
+A Fiction Bank 2 - 767284088 - hi there,    A Fiction Bank 7 - 004509526 - hi there
+A Fiction Bank 8 - 511847179 - hi there,    A Fiction Bank 9 - 736866572 - hi there
+A Fiction Bank 2 - 153809405 - hi there,    A Fiction Bank 7 - 446441420 - hi there
+A Fiction Bank 3 - 092416403 - hi there,    A Fiction Bank 2 - 642044293 - hi there
+A Fiction Bank 9 - 383019905 - hi there,    A Fiction Bank 7 - 826942417 - hi there
+A Fiction Bank 2 - 860972429 - hi there,    A Fiction Bank 4 - 447061962 - hi there
+A Fiction Bank 7 - 579262752 - hi there,    A Fiction Bank 3 - 670059019 - hi there
+A Fiction Bank 8 - 641984826 - hi there,    A Fiction Bank 7 - 800982523 - hi there
+A Fiction Bank 7 - 583587736 - hi there,    A Fiction Bank 7 - 543097070 - hi there
+A Fiction Bank 8 - 956714860 - hi there,    A Fiction Bank 3 - 780085805 - hi there
+A Fiction Bank 9 - 485587658 - hi there,    A Fiction Bank 2 - 611330282 - hi there
+A Fiction Bank 5 - 183514091 - hi there,    A Fiction Bank 6 - 626514989 - hi there
+A Fiction Bank 3 - 947851856 - hi there,    A Fiction Bank 9 - 244433173 - hi there
+A Fiction Bank 9 - 967471064 - hi there,    A Fiction Bank 9 - 179650703 - hi there
+A Fiction Bank 6 - 039676139 - hi there,    A Fiction Bank 6 - 739538586 - hi there
+A Fiction Bank 3 - 058094650 - hi there,    A Fiction Bank 7 - 654947962 - hi there
+A Fiction Bank 9 - 477226300 - hi there,    A Fiction Bank 3 - 505685140 - hi there
+A Fiction Bank 9 - 296058102 - hi there,    A Fiction Bank 8 - 716105023 - hi there
+A Fiction Bank 9 - 923074583 - hi there,    A Fiction Bank 8 - 546394293 - hi there
+A Fiction Bank 6 - 279189232 - hi there,    A Fiction Bank 6 - 847059504 - hi there
+A Fiction Bank 4 - 327505764 - hi there,    A Fiction Bank 8 - 619545763 - hi there
+A Fiction Bank 6 - 894681084 - hi there,    A Fiction Bank 8 - 407312030 - hi there
+A Fiction Bank 5 - 859776625 - hi there,    A Fiction Bank 2 - 151887205 - hi there
+A Fiction Bank 7 - 533798230 - hi there,    A Fiction Bank 2 - 162452705 - hi there
+A Fiction Bank 9 - 358424292 - hi there,    A Fiction Bank 7 - 490411624 - hi there
+A Fiction Bank 9 - 673613023 - hi there,    A Fiction Bank 1 - 992133362 - hi there
+A Fiction Bank 4 - 397859492 - hi there,    A Fiction Bank 9 - 008582364 - hi there
+A Fiction Bank 6 - 435520736 - hi there,    A Fiction Bank 7 - 292739979 - hi there
+A Fiction Bank 3 - 725852107 - hi there,    A Fiction Bank 8 - 345220929 - hi there
+A Fiction Bank 6 - 290152708 - hi there,    A Fiction Bank 8 - 085133322 - hi there
+USA DEA Number
+
+Valid codes:
+BB1388568
+RX8580434
+GC0660060
+GL0285193
+
+Invalid codes:
+KV2993548 --
+CU2013709
+EU4488924
+CP8422121
+NK6810839
+USA EIN Number
+An Employer Identification Number (EIN) is a nine-digit number that IRS assigns in the following format: XX-XXXXXXX. 
+
+
+52-4352452
+10-1234567
+21-2343134
+USA Individual TIN Number
+The ITIN is a nine-digit number that always begins with the number 9 and has a range of numbers from 50 to 65, 70 to 88, 90 to 92, and 94 to 99 for the fourth and fifth digits. The ITIN is formatted like a SSN: 9XX-XX-XXXX.
+
+
+Valid ITIN
+923-73-4356
+909-51-4642
+924562434
+986 94 2345
+
+Invalid ITIN
+909-66-4642
+757-85-7495
+149-13-7317
+986 93 2345
+003 06 8815
+805 14 1893
+USA Preparer TIN Number
+
+Valid:
+P12345678
+P85483632
+P98596834
+
+Invalid
+75743931
+P6523456
+P652345612
+P 56732345
+USA Social Security Number
+
+Valid
+778-62-8144
+030 72 7381
+757-85-7495
+149-13-7317
+003 06 8815
+805 14 1893
+
+Invalid
+70906649
+16325404
+909-03-4642
+401318448
+790714615
+666-22-2345
+1111-22-0000
+USA State
+
+902 N Knight St, Plant City, Florida(FL), 33563
+216 N Otter Ave
+Parkers Prairie, Minnesota(MN), 56361
+47502 288th Ave SE, Enumclaw, Washington(WA), 98022
+16114 King William Rd, King William, Virginia (VA) 23086
+8 Chapel Hill Dr, Plymouth, Massachusetts MA 02360
+706 S Ammerman Ave Eastland, TX 76448
+DOMAIN_NAME
+
+whateveryouwant.info
+whateverme.blog
+thewhatever.info
+what.ever.ai
+server3.dept.cornell.edu
+
+555.123.4567	+1-(800)-555-2468
+foodemo.net
+bar.ba.test.co.uk
+www.demo.com
+http://foo.co.uk/
+http://regexr.com/foo.html?q=bar
+g.com
+IMSI_ID
+
+Bangladesh TeleTalk 470040123456789 
+United States Sprint 313460000000001 
+Malaysia 502130123456789 Celcom
+Thailand 520031234567890 
+
+Invalid
+201031234567890
+303460000000001
+3101247654356
+31012476543561237
+SWIFT_CODE
+
+swift BUKBGB220KP 
+1	AGRICULTURAL BANK OF CHINA LIMITED - HANOI BRANCH	HANOI	Agricultural Bank of China-CN HA NOI	ABOCVNVX
+2	AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED	HO CHI MINH CITY		AIACVNVX
+3	AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED	HO CHI MINH CITY	(GENERAL INVESTMENT OPERATIONS)	AIACVNVXGIO
+4	AN BINH COMMERCIAL JOINT STOCK BANK	HO CHI MINH CITY	An Binh Commercial Joint Stock Bank - Da Nang Branch	ABBKVNVX
+1	1ST PMF BANCORP	LOS ANGELES		PMFAUS66
+2	1ST PMF BANCORP	LOS ANGELES		PMFAUS66HKG
+3	280 SECURITIES LLC	SAN FRANCISCO		SULCUS62
+4	3M COMPANY	ST. PAUL		MMMCUS44
+5	ABACUS FEDERAL SAVINGS BANK	NEW YORK	BOWERY	AFSBUS33
+6	ABANCA USA	MIAMI		CAGLUS3M
+7	ABBOTT LABORATORIES	ABBOTT PARK		ABTTUS44
+URL
+
+https://www.computerhope.com/cgi-bin/search.cgi?q=example%20search&example=test
+http://MVSXX.COMPANY.COM:04445/CICSPLEXSM//JSMITH/MENU/OURHOME?CONTEXT=FRED&SCOPE=FRED
+smb://fileserver.domain/myshare/mydir/mydoc.txt
+http://www.google.com/page.html
+http://www.example.com/products/mypage.html
+https://sales.example.com/production_details/inventory.xls
+ftp://joe_bozo:bl123@internet.address.edu/path/file.gz
+search Comm https://google.us.edi?34535/534534?dfg=g&fg unity expressions and add your own 
+* online & desktop: regexr.com or download the desktop version for Mac, Windows, or Linux 
