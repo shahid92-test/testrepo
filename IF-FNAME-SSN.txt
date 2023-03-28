@@ -3,3 +3,13 @@ John
 99 Wall Street #270 New York
 DOB: 1995/09/25
 January month
+
+Department: Sales Rep
+Phone Number: +1-541-754-3010
+Emails:
+Personal Email: Tom@test.com
+Official Email: john@demo.com
+Other: jullie@demo.com
+Date: 5/12/2021
+SSN: 111-12-1234
+IP: 192.168.1.1

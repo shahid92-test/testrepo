@@ -1,5 +1,7 @@
 Department: Sales Rep
 Phone Number: +1-541-754-3010
+Department: Sales Rep
+Phone Number: +1-541-754-3010
 Emails:
 Personal Email: Tom@test.com
 Official Email: john@demo.com

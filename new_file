@@ -520,67 +520,12 @@ Invalid
 16325404
 909-03-4642
 401318448
-790714615
-666-22-2345
-1111-22-0000
-USA State
-
-902 N Knight St, Plant City, Florida(FL), 33563
-216 N Otter Ave
-Parkers Prairie, Minnesota(MN), 56361
-47502 288th Ave SE, Enumclaw, Washington(WA), 98022
-16114 King William Rd, King William, Virginia (VA) 23086
-8 Chapel Hill Dr, Plymouth, Massachusetts MA 02360
-706 S Ammerman Ave Eastland, TX 76448
-DOMAIN_NAME
-
-whateveryouwant.info
-whateverme.blog
-thewhatever.info
-what.ever.ai
-server3.dept.cornell.edu
-
-555.123.4567	+1-(800)-555-2468
-foodemo.net
-bar.ba.test.co.uk
-www.demo.com
-http://foo.co.uk/
-http://regexr.com/foo.html?q=bar
-g.com
-IMSI_ID
-
-Bangladesh TeleTalk 470040123456789 
-United States Sprint 313460000000001 
-Malaysia 502130123456789 Celcom
-Thailand 520031234567890 
-
-Invalid
-201031234567890
-303460000000001
-3101247654356
-31012476543561237
-SWIFT_CODE
-
-swift BUKBGB220KP 
-1	AGRICULTURAL BANK OF CHINA LIMITED - HANOI BRANCH	HANOI	Agricultural Bank of China-CN HA NOI	ABOCVNVX
-2	AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED	HO CHI MINH CITY		AIACVNVX
-3	AIA (VIETNAM)LIFE INSURANCE COMPANY LIMITED	HO CHI MINH CITY	(GENERAL INVESTMENT OPERATIONS)	AIACVNVXGIO
-4	AN BINH COMMERCIAL JOINT STOCK BANK	HO CHI MINH CITY	An Binh Commercial Joint Stock Bank - Da Nang Branch	ABBKVNVX
-1	1ST PMF BANCORP	LOS ANGELES		PMFAUS66
-2	1ST PMF BANCORP	LOS ANGELES		PMFAUS66HKG
-3	280 SECURITIES LLC	SAN FRANCISCO		SULCUS62
-4	3M COMPANY	ST. PAUL		MMMCUS44
-5	ABACUS FEDERAL SAVINGS BANK	NEW YORK	BOWERY	AFSBUS33
-6	ABANCA USA	MIAMI		CAGLUS3M
-7	ABBOTT LABORATORIES	ABBOTT PARK		ABTTUS44
-URL
-
-https://www.computerhope.com/cgi-bin/search.cgi?q=example%20search&example=test
-http://MVSXX.COMPANY.COM:04445/CICSPLEXSM//JSMITH/MENU/OURHOME?CONTEXT=FRED&SCOPE=FRED
-smb://fileserver.domain/myshare/mydir/mydoc.txt
-http://www.google.com/page.html
-http://www.example.com/products/mypage.html
-https://sales.example.com/production_details/inventory.xls
-ftp://joe_bozo:bl123@internet.address.edu/path/file.gz
-search Comm https://google.us.edi?34535/534534?dfg=g&fg unity expressions and add your own 
-* online & desktop: regexr.com or download the desktop version for Mac, Windows, or Linux 
+Department: Sales Rep
+Phone Number: +1-541-754-3010
+Emails:
+Personal Email: Tom@test.com
+Official Email: john@demo.com
+Other: jullie@demo.com
+Date: 5/12/2021
+SSN: 111-12-1234
+IP: 192.168.1.1
