@@ -1,13 +1,4 @@
-asdsad@asdasd.com
-
-222-22-2222
-192.98.23.13
-asdsa@dasd.cmo
-222-22-2222
-asdsad@fasd.com
-222-22-2222
-Department: Sales Rep
-Phone Number: +1-541-754-3010
+one Number: +1-541-754-3010
 Emails:
 Personal Email: Tom@test.com
 Official Email: john@demo.com
@@ -15,25 +6,14 @@ Other: jullie@demo.com
 Date: 5/12/2021
 SSN: 111-12-1234
 IP: 192.168.1.1
+IP: 192.168.1.1
 
 
 asdasd@asdas.com2
 
 
-222-22-2222
+222-22-2222asd
 asdsag@fasd.com
 
 123.12.32.212
 hasdsa@fasd.com2asl adla kkaljdhadk adhs
-
-sadsad@dasds.com
-222-22-2222
-
-
-asfglkas anksl jalakjhas agsahgd saj dajsgjhdg ajd
-asdsadf@fasd.com
-sadsad@dasd.com
-asdga@aasdasdasdsd.com
-sdasfa@asd.com
-
-asdsad@dasd.com
