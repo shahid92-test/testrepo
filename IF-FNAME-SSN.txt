@@ -3,3 +3,9 @@ John
 99 Wall Street #270 New York
 DOB: 1995/09/25
 January month
+
+
+Official Email: john@demo.com
+Other: jullie@demo.com
+Date: 5/12/2021
+SSN: 111-12-1234
